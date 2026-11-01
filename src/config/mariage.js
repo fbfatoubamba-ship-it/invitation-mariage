@@ -21,7 +21,7 @@ export const mariage = {
   musique: '/musique.mp3',
   // Adresse du script Google (voir README) : les messages des invités arrivent alors dans un Google Sheets.
   // Laissez vide pour utiliser WhatsApp à la place.
-  messagesUrl: '',
+  messagesUrl: 'https://script.google.com/macros/s/AKfycbzPWpXPvVODAP1jxMTQru833aL5UgCkBzogqFFl4FwHd7T8e0S0dDKy6KuWWEdroIN7/exec',
   // Numéro WhatsApp au format international, chiffres seulement (ex : "2250700000000"). Vide = message d'attente.
   whatsapp: { numero: '', messageDebut: 'Bonjour Salimata et Abdoul Kader, voici mon petit mot pour vous :' },
   // Pour chaque événement : date (fixe), heure, lieu. Laissez vide ("") si inconnu.
