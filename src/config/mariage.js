@@ -31,12 +31,12 @@ export const mariage = {
   evenements: [
     {
       id: 'mise-en-chambre', photo: '/photo-mise-en-chambre.jpg', titre: 'La mise en chambre', date: '2026-12-15',
-      heure: '11h:00', lieu: 'palmeraie vision 2000', 
+      heure: '11h:00', lieu: 'palmeraie vision 2000', address:'',
       description: 'Un moment particulier qui précède le mariage, placé sous le signe de la famille, de la tradition et du bonheur.',
     },
     {
       id: 'mariage-musulman', photo: '/photo-mariage.jpg', titre: 'Le mariage musulman et la réception', date: '2026-12-17',
-      heure: '10h:00', lieu: ' grande mosquee dangre', // nom de la mosquée, quand elle sera choisie
+      heure: '10h:00', lieu: ' grande mosquee dangre', address:'', // nom de la mosquée, quand elle sera choisie
       description: 'Les familles Coulibaly et Ouattara ont la joie de vous convier à cette union célébrée dans le respect des traditions musulmanes.',
     },
     {
