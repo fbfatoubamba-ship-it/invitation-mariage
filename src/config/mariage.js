@@ -36,7 +36,7 @@ export const mariage = {
     },
     {
       id: 'mariage-musulman', photo: '/photo-mariage.jpg', titre: 'Le mariage musulman et la réception', date: '2026-12-17',
-      heure: '10h:00', lieu: ' grande mosquee dangre', address:'', // nom de la mosquée, quand elle sera choisie
+      heure: '10h:00', lieu: ' grande mosquee d Angre', address:'', // nom de la mosquée, quand elle sera choisie
       description: 'Les familles Coulibaly et Ouattara ont la joie de vous convier à cette union célébrée dans le respect des traditions musulmanes.',
     },
     {
