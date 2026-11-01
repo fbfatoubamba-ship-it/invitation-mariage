@@ -23,7 +23,7 @@ export const mariage = {
   // Laissez vide pour utiliser WhatsApp à la place.
   messagesUrl: 'https://script.google.com/macros/s/AKfycbzPWpXPvVODAP1jxMTQru833aL5UgCkBzogqFFl4FwHd7T8e0S0dDKy6KuWWEdroIN7/exec',
   // Numéro WhatsApp au format international, chiffres seulement (ex : "2250700000000"). Vide = message d'attente.
-  whatsapp: { numero: '', messageDebut: 'Bonjour Salimata et Abdoul Kader, voici mon petit mot pour vous :' },
+  whatsapp: { numero: '', messageDebut: 'Bonjour Salimata et Abdoul-Kader, voici mon petit mot pour vous :' },
   // Pour chaque événement : date (fixe), heure, lieu. Laissez vide ("") si inconnu.
   // "adresse" sert uniquement au bouton « Voir l'itinéraire » (Google Maps) : il n'apparaît que si elle est remplie.
   // Petit mot affiché à la fin de la page (modifiable librement).
@@ -31,13 +31,13 @@ export const mariage = {
   evenements: [
     {
       id: 'mise-en-chambre', photo: '/photo-mise-en-chambre.jpg', titre: 'La mise en chambre', date: '2026-12-15',
-      heure: '', lieu: '', adresse: '',
+      heure: '14h', lieu: 'palmeraie,vision 2000', 
       description: 'Un moment particulier qui précède le mariage, placé sous le signe de la famille, de la tradition et du bonheur.',
     },
     {
       id: 'mariage-musulman', photo: '/photo-mariage.jpg', titre: 'Le mariage musulman et la réception', date: '2026-12-17',
-      heure: '', lieu: '', // nom de la mosquée, quand elle sera choisie
-      adresse: '',
+      heure: '10h', lieu: ' grande mosquee d angre', // nom de la mosquée, quand elle sera choisie
+      ,
       description: 'Les familles Coulibaly et Ouattara ont la joie de vous convier à cette union célébrée dans le respect des traditions musulmanes.',
     },
     {
