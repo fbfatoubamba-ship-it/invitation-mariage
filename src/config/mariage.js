@@ -6,7 +6,7 @@
 // ============================================================
 export const mariage = {
   titreSite: 'Mariage de Hadja Salimata Coulibaly et Ouattara Abdoul-Kader',
-  maries: { epouse: 'Hadja Salimata Coulibaly', epoux: 'Ouattara Abdoul Kader', initiales: 'S & A' },
+  maries: { epouse: 'Hadja Salimata Coulibaly', epoux: 'Ouattara Abdoul-Kader', initiales: 'S & A' },
   familles: 'Les familles Coulibaly et Ouattara ont l’immense joie de vous annoncer le mariage de leurs enfants.',
   verset: {
     arabe: 'وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا لِّتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً',
