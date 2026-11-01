@@ -5,7 +5,7 @@
 //  Heure au format 24 h : "15:30"
 // ============================================================
 export const mariage = {
-  titreSite: 'Mariage de Hadja Salimata Coulibaly et Ouattara Abdoul Kader',
+  titreSite: 'Mariage de Hadja Salimata Coulibaly et Ouattara Abdoul-Kader',
   maries: { epouse: 'Hadja Salimata Coulibaly', epoux: 'Ouattara Abdoul Kader', initiales: 'S & A' },
   familles: 'Les familles Coulibaly et Ouattara ont l’immense joie de vous annoncer le mariage de leurs enfants.',
   verset: {
