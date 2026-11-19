@@ -31,7 +31,7 @@ export const mariage = {
   evenements: [
     {
       id: 'mise-en-chambre', photo: '/photo-mise-en-chambre.jpg', titre: 'La mise en chambre', date: '2026-12-15',
-      heure: '11h:00', lieu: 'palmeraie vision 2000', address:'',
+      heure: '10h:00', lieu: 'palmeraie vision 2000', address:'',
       description: 'Un moment particulier qui précède le mariage, placé sous le signe de la famille, de la tradition et du bonheur.',
     },
     {
