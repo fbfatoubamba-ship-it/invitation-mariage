@@ -36,13 +36,18 @@ export const mariage = {
     },
     {
       id: 'mariage-musulman', photo: '/photo-mariage.jpg', titre: 'Le mariage musulman et la réception', date: '2026-12-17',
-      heure: '10h:00', lieu: ' grande mosquee d Angre', address:'', // nom de la mosquée, quand elle sera choisie
+      heure: '09h:00', lieu: ' grande mosquee d Angre', address:'', // nom de la mosquée, quand elle sera choisie
       description: 'Les familles Coulibaly et Ouattara ont la joie de vous convier à cette union célébrée dans le respect des traditions musulmanes.',
     },
+    { id: 'reception', photo: '/photo-rejouissances.jpg', titre: 'reception', date: '2026-12-17',
+      heure: '11:00', lieu: 'fabulos evenementiel', adresse: '',
+      description: 'Prolongeons la joie de cette belle union lors d’une  reception , de partage et de bonheur en famille.',
+    },
+      
     {
-      id: 'danse-rejouissances', photo: '/photo-rejouissances.jpg', titre: 'La danse de réjouissances', date: '2026-12-19',
-      heure: '', lieu: '', adresse: '',
-      description: 'Prolongeons la joie de cette belle union lors d’une journée de réjouissances, de partage et de bonheur en famille.',
+      id: 'danse-rejouissances', photo: '/photo-rejouissances.jpg', titre: 'La danse de réjouissances', date: '2026-12-17',
+      heure: '14:00', lieu: 'fabulos evenementiel', adresse: '',
+      description: 'Prolongeons la joie de cette belle union lors d’une soiree de réjouissances, de celebration et de bonheur en famille.',
     },
   ],
 }
