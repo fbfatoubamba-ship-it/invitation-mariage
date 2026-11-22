@@ -36,7 +36,7 @@ export const mariage = {
     },
     {
       id: 'mariage-musulman', photo: '/photo-mariage.jpg', titre: ' Mariage religion ', date: '2026-12-17',
-      heure: '09h:00', lieu: ' grande mosquee d'Angre', address:'', // nom de la mosquée, quand elle sera choisie
+      heure: '09h:00', lieu: ' grande mosquee de Angre', address:'', // nom de la mosquée, quand elle sera choisie
       description: 'Les familles  Ouattara et  Coulibaly ont la joie de vous convier à cette union célébrée dans le respect des traditions musulmanes.',
     },
     { id: 'reception', photo: '/photo-rejouissances.jpg', titre: 'Reception', date: '2026-12-17',
