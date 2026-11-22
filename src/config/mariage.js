@@ -30,23 +30,23 @@ export const mariage = {
   motFin: 'Votre présence est pour nous le plus beau des cadeaux. Partager ces moments de joie avec vous, qui comptez tant à nos yeux, donnera à cette union tout son sens. Nous avons hâte de vous retrouver. Qu’Allah nous réunisse dans la joie et la santé.',
   evenements: [
     {
-      id: 'mise-en-chambre', photo: '/photo-mise-en-chambre.jpg', titre: 'La mise en chambre', date: '2026-12-15',
-      heure: '10h:00', lieu: 'angre vision 2000', address:'',
+      id: 'mise-en-chambre', photo: '/photo-mise-en-chambre.jpg', titre: ' Mise en chambre', date: '2026-12-15',
+      heure: '10h:00', lieu: 'Angre Vision 2000', address:'',
       description: 'Un moment particulier qui précède le mariage, placé sous le signe de la famille, de la tradition et du bonheur.',
     },
     {
-      id: 'mariage-musulman', photo: '/photo-mariage.jpg', titre: 'Le mariage musulman ', date: '2026-12-17',
-      heure: '09h:00', lieu: ' grande mosquee d Angre', address:'', // nom de la mosquée, quand elle sera choisie
+      id: 'mariage-musulman', photo: '/photo-mariage.jpg', titre: ' Mariage religion ', date: '2026-12-17',
+      heure: '09h:00', lieu: ' grande mosquee d'Angre', address:'', // nom de la mosquée, quand elle sera choisie
       description: 'Les familles  Ouattara et  Coulibaly ont la joie de vous convier à cette union célébrée dans le respect des traditions musulmanes.',
     },
-    { id: 'reception', photo: '/photo-rejouissances.jpg', titre: 'reception', date: '2026-12-17',
+    { id: 'reception', photo: '/photo-rejouissances.jpg', titre: 'Reception', date: '2026-12-17',
       heure: '11:00', lieu: 'fabulos evenementiel', adresse: '',
       description: 'Prolongeons la joie de cette belle union lors d’une  reception , de partage et de bonheur en famille.',
     },
       
     {
-      id: 'danse-rejouissances', photo: '/photo-rejouissances.jpg', titre: 'La danse de réjouissances', date: '2026-12-17',
-      heure: '14:00', lieu: 'fabulos evenementiel', adresse: '',
+      id: 'danse-rejouissances', photo: '/photo-rejouissances.jpg', titre: ' Danse de réjouissances', date: '2026-12-17',
+      heure: '14:00', lieu: 'Fabulos Evenementiel', adresse: '',
       description: 'Prolongeons la joie de cette belle union lors d’une soiree de réjouissances, de celebration et de bonheur en famille.',
     },
   ],
