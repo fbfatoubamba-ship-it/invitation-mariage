@@ -29,7 +29,7 @@ export default function MessageMaries({ whatsapp, messagesUrl = '', decor = {}, 
           </div>
         ) : (
           <>
-            <p className="intro-mot">Laissez-leur un message, un vœu ou un souvenir : il leur ira droit au cœur.</p>
+            <p className="intro-mot">Laissez-leur un message, formulez un vœu ou partagez un souvenir : vos mots leur iront droit au cœur.</p>
             <div className="formulaire">
               <label>Votre nom<input value={nom} maxLength={120} onChange={(e) => setNom(e.target.value)} autoComplete="name" /></label>
               <label>Votre message<textarea rows="5" maxLength={1500} value={msg} onChange={(e) => setMsg(e.target.value)} placeholder="Écrivez votre petit mot ici…" /></label>
