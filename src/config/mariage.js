@@ -40,7 +40,7 @@ export const mariage = {
       description: 'Les familles  Ouattara et  Coulibaly ont la joie de vous convier à cette union célébrée dans le respect des traditions musulmanes.',
     },
     { id: 'reception', photo: '/photo-rejouissances.jpg', titre: 'Reception', date: '2026-12-17',
-      heure: '11:00', lieu: 'fabulos evenementiel', adresse: '',
+      heure: '11:00', lieu: 'Fabulos Evenementiel', adresse: '',
       description: 'Prolongeons la joie de cette belle union lors d’une  reception , de partage et de bonheur en famille.',
     },
       
