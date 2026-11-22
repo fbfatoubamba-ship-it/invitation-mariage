@@ -47,7 +47,7 @@ export const mariage = {
     {
       id: 'danse-rejouissances', photo: '/photo-rejouissances.jpg', titre: ' Danse de réjouissances', date: '2026-12-17',
       heure: '14:00', lieu: 'Fabulos Evenementiel', adresse: '',
-      description: 'Prolongeons la joie de cette belle union lors d’une soiree de réjouissances, de celebration et de bonheur en famille.',
+      description: 'Prolongeons la joie de cette belle union autour d’une soirée festive en famille. ',
     },
   ],
 }
